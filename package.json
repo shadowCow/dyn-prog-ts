@@ -1,0 +1,22 @@
+{
+  "name": "@cow-sunday/dyn-prog-ts",
+  "version": "1.0.0",
+  "description": "Dynamic Programming Utilities in TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadowCow/dyn-prog-ts.git"
+  },
+  "author": "shadowCow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shadowCow/dyn-prog-ts/issues"
+  },
+  "homepage": "https://github.com/shadowCow/dyn-prog-ts#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
